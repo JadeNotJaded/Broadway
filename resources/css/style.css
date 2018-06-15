@@ -13,3 +13,28 @@ h1 {
 .headerNav {
   font-size: 18px;
 }
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+.NewYork {
+  color: White;
+  font-size: 23px;
+  font-weight: bold;
+  background-image: "../images/the-flatiron-building.png"
+}
+.footerNav {
+  background-color: dimgray;
+  color: White;
+  font-size: 18px;
+}
+#icon {
+  font-size: 11px;
+}
