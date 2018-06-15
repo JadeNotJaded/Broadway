@@ -30,7 +30,7 @@ p {
   font-weight: bold;
   background-image: "../images/the-flatiron-building.png"
 }
-.footerNav p {
+.footer {
   background-color: dimgray;
   color: White;
 }
