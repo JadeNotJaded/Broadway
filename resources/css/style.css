@@ -3,15 +3,17 @@ body {
   font-family: Helvetica;
 }
 #home {
-  background-image: "../images/the-flatiron-building.png"
+  background-image: url("../images/the-flatiron-building.png");
   color: white;
 }
 h1 {
   font-size: 70px;
   font-weight: bold;
+  color: White;
 }
-.headerNav {
+a {
   font-size: 18px;
+  color: White;
 }
 h2 {
   font-size: 32px;
@@ -28,12 +30,12 @@ p {
   color: White;
   font-size: 23px;
   font-weight: bold;
-  background-image: "../images/the-flatiron-building.png"
+  background-image: url("../images/the-flatiron-building.png");
 }
+
 .footer {
   background-color: dimgray;
   color: White;
-}
-#icon {
+  text-align: left;
   font-size: 11px;
 }
